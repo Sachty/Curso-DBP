@@ -1,3 +1,3 @@
 print("casa")
 
-print("mansion")
+print("home")
