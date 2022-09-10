@@ -18,14 +18,12 @@ mkdir Scripts
 Set-ExecutionPolicy Unrestricted -Scope Process
 
 ### Activar el entorno virtual
-.\miEntornoVirtual\activate.ps1
+.\miEntornoVirtual\Scripts\activate.ps1
 
 
 ###  Instalar los requerimientos:
 pip install requerements.txt
 
-### Activar
-.\Scripts\activate.ps1
 
 ## Correr Flask
 
