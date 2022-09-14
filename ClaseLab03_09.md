@@ -21,16 +21,14 @@ Set-ExecutionPolicy Unrestricted -Scope Process
 .\miEntornoVirtual\Scripts\activate.ps1
 
 
-###  Instalar los requerimientos:
-pip install -r  requirements.txt
-
 
 ## Correr Flask
 
 ### Correr app con flask, se correra el archivo colocado en .flashenv
 flask run
 
+###  Instalar los requerimientos (requisito para correr la app)
+pip install -r  requirements.txt
 
-
-## Extras
+### Extras
 .flaskenv: Sirve para correr la aplicacion con un primer archivo
