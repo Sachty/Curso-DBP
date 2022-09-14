@@ -22,7 +22,7 @@ Set-ExecutionPolicy Unrestricted -Scope Process
 
 
 ###  Instalar los requerimientos:
-pip install requerements.txt
+pip install -r  requirements.txt
 
 
 ## Correr Flask
