@@ -1,0 +1,21 @@
+# Comandos
+#### Iniciar proyecto
+
+``` code
+npm init vue@latest 
+```
+
+#### Responder Si/No
+
+
+#### Entrar al proyecto vue
+cd app_teoria
+ 
+#### Instalar los paquetes
+npm install
+
+#### Correr lint
+npm run lint
+
+#### Correr proyecto vue
+npm run dev
