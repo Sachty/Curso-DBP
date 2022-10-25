@@ -6,7 +6,7 @@ npm init vue@latest
 ```
 
 #### Responder Si/No
-
+![Respuestas](opciones si y no par vue latest.png)
 
 #### Entrar al proyecto vue
 ``` sh
