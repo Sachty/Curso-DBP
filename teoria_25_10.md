@@ -1,7 +1,7 @@
 # Comandos
 #### Iniciar proyecto
 
-``` code
+``` sh
 npm init vue@latest 
 ```
 
@@ -9,13 +9,21 @@ npm init vue@latest
 
 
 #### Entrar al proyecto vue
+``` sh
 cd app_teoria
+```
  
 #### Instalar los paquetes
+``` sh
 npm install
+```
 
 #### Correr lint
+``` sh
 npm run lint
+```
 
 #### Correr proyecto vue
+``` sh
 npm run dev
+```
